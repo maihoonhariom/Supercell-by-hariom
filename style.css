@@ -185,6 +185,9 @@ nav .links a:hover{
     
     background-color: #3d88ce;
 }
+.games p{
+    transform: translateX(-55px);
+}
 .games div{
     width: 40%;
 }
@@ -228,6 +231,9 @@ nav .links a:hover{
 }
 .careers div{
     width: 40%;
+}
+.careers p{
+    transform: translateX(-55px);
 }
 .careers img{
     width: 40%; 
